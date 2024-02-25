@@ -5,6 +5,7 @@
 
 ## What?
 This is a simple toolkit for exporting data via the TikTok Research API. It follows all rules and restrictions outlined by the [TikTok Research API Terms of Service](https://www.tiktok.com/legal/page/global/terms-of-service-research-api/en).
+
 This project is still in the early stages of development. The provided code should work in most situations but it has only been lightly tested and does not currently handle errors gracefully, so I would highly recommend verifying any outputs.
 
 ### Capabilities

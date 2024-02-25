@@ -13,6 +13,11 @@ This project is still in the early stages of development. The provided code shou
 - Export comments from uploaded videos by a single user between two dates
 - Save exported data to Google Drive
 
+### Future Improvements
+- [ ] Add proper error handling
+- [ ] Add code to detect and report expired/invalid client keys, secrets, and tokens
+- [ ] Add code to report exceeded quota limits
+
 ## Why
 When I first started working on this notebook there was very little documentation available related to the research API and the few code examples I could find did not suit my needs.
 

@@ -3,7 +3,7 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-## What
+## What?
 This is a simple toolkit for exporting data via the TikTok Research API. It follows all rules and restrictions outlined by the [TikTok Research API Terms of Service](https://www.tiktok.com/legal/page/global/terms-of-service-research-api/en).
 This project is still in the early stages of development. The provided code should work in most situations but it has only been lightly tested and does not currently handle errors gracefully, so I would highly recommend verifying any outputs.
 
@@ -18,10 +18,10 @@ This project is still in the early stages of development. The provided code shou
 - [ ] Add code to detect and report expired/invalid client keys, secrets, and tokens
 - [ ] Add code to report exceeded quota limits
 
-## Why
+## Why?
 When I first started working on this notebook there was very little documentation available related to the research API and the few code examples I could find did not suit my needs.
 
-## How
+## How?
 > [!IMPORTANT]
 > Before you can use this notebook you must get approval from TikTok to access to their Research API. More information can be found here: https://developers.tiktok.com/products/research-api/
 
